@@ -9,4 +9,7 @@ public class classone {
 	
 	private int x;
 
+	private int hello;
+
+
 }
