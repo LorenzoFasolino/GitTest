@@ -10,7 +10,6 @@ public class classone {
 	private int x;
 
 	private int hello;
-	
-	private String w;
+
 
 }
