@@ -5,7 +5,7 @@ public class classone {
 	
 	private String a;
 	
-	private int b;
+	private String b;
 	
 	private int x;
 
