@@ -3,7 +3,7 @@ package Model;
 public class classone {
 	
 	
-	private int a;
+	private String a;
 	
 	private int b;
 	
