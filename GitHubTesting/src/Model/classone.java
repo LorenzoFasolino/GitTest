@@ -5,7 +5,7 @@ public class classone {
 	
 	private String a;
 	
-	private float b;
+	private String b;
 	
 	private int x;
 
